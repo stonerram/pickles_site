@@ -4,7 +4,11 @@ function Header() {
   return (
     <div>
       <h1>Hiii...!  Buddy....!</h1>
-    </div>
+      <h1>Hiii...!  Buddy....!</h1>
+      <h1>Hiii...!  Buddy....!</h1>
+      <h1>Hiii...!  Buddy....!</h1>
+      <h1>Hiii...!  Buddy....!</h1>
+      </div>
   )
 }
 
